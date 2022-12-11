@@ -1,0 +1,1 @@
+python yatube/manage.py runserver
